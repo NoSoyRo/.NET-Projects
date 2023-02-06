@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.AssemblyInfo.cs
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\bin\Debug\net6.0\HunteamExam.exe
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\bin\Debug\net6.0\HunteamExam.deps.json
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\bin\Debug\net6.0\HunteamExam.runtimeconfig.json
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\bin\Debug\net6.0\HunteamExam.dll
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\bin\Debug\net6.0\HunteamExam.pdb
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.dll
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\refint\HunteamExam.dll
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.pdb
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\HunteamExam.genruntimeconfig.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\HunteamExam\HunteamExam\obj\Debug\net6.0\ref\HunteamExam.dll

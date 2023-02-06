@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.AssemblyInfo.cs
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\bin\Debug\net6.0\ReversedString.exe
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\bin\Debug\net6.0\ReversedString.deps.json
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\bin\Debug\net6.0\ReversedString.runtimeconfig.json
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\bin\Debug\net6.0\ReversedString.dll
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\bin\Debug\net6.0\ReversedString.pdb
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.dll
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\refint\ReversedString.dll
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.pdb
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ReversedString.genruntimeconfig.cache
+C:\Users\rodri\Documents\C#\ReversedString\ReversedString\obj\Debug\net6.0\ref\ReversedString.dll

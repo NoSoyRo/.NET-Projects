@@ -1,0 +1,15 @@
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.AssemblyInfo.cs
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\bin\Debug\net6.0\Algoritmos.exe
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\bin\Debug\net6.0\Algoritmos.deps.json
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\bin\Debug\net6.0\Algoritmos.runtimeconfig.json
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\bin\Debug\net6.0\Algoritmos.dll
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\bin\Debug\net6.0\Algoritmos.pdb
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.dll
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\refint\Algoritmos.dll
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.pdb
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\Algoritmos.genruntimeconfig.cache
+C:\Users\rodri\Documents\C#\OtrosExamenes\Algoritmos\Algoritmos\obj\Debug\net6.0\ref\Algoritmos.dll
